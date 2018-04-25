@@ -1,1 +1,2 @@
-this is to check the ssh connection
+this is to check the ssh connection.
+And so for it seems ok
